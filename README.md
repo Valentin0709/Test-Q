@@ -34,5 +34,6 @@ The application runs using resources from the Microsoft .NET Framework (version 
 
 <p align="center">
   <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/login.PNG">
+ ceva
 </p>
 
