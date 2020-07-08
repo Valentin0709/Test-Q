@@ -7,7 +7,7 @@ Test Q is a desktop application that comprises several microgames which asses th
 The application was built using the Microsoft Visual Studio 2017 development environment using the C# and MySQL programming languages. The app utilizes an online hosted database created with the free plan offered by GearHost and the management of all the tables was accomplished using the SQL Server Management Studio. 
 
 ## System requirements 
-The application runs using resources from the Microsoft .NET Framework (version 2.0) which comes preinstalled with all Windows version starting from Windows 7. Test Q also requires a stable internet connection.
+The application runs using resources from the Microsoft .NET Framework (version 2.0) which comes preinstalled with all Windows version starting with Windows 7. Test Q also requires a stable internet connection.
 
 ## Key features
 * Test Q has an intuitive GUI which enables any user to navigate readily between all the different sections of the app. This is accomplished by using a minimalist and friendly design which takes advantage of a simple color palette, suggestive images, nonambiguous descriptions and a reduced number of buttons programmed to execute simple functions.
