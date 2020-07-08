@@ -1,0 +1,40 @@
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\Proiect atestat.exe.config
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\Proiect atestat.exe
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\Proiect atestat.pdb
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form1.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Properties.Resources.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.csproj.GenerateResource.cache
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.csproj.CoreCompileInputs.cache
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.exe
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.pdb
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\ro\Proiect atestat.resources.dll
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form1.ro.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\ro\Proiect atestat.resources.dll
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form2.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form3.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\Proiect atestat.exe.manifest
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\Proiect atestat.application
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.exe.manifest
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.application
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form4.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form5.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form6.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form7.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form8.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form9.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form10.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form11.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form12.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form13.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form14.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form15.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form16.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form18.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form19.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect atestat.csprojAssemblyReference.cache
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form17.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form20.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\register_db.mdf
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\bin\Debug\register_db_log.ldf
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form21.resources
+D:\Vali\Desktop\Proiect atestat\Proiect atestat\obj\Debug\Proiect_atestat.Form22.resources
