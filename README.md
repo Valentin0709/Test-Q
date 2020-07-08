@@ -52,4 +52,20 @@ The application runs using resources from the Microsoft .NET Framework (version 
   <p>Reaction time test page - middle: the score of the last attempt, bottom left: current average score, bottom right: number of attempts completed (out of 5)</p>
 </div>
 
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/number_memory.png">
+  <p>Number memory test page - middle: number to memorize, bottom left: timer, bottom right: current score</p>
+</div>
+
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/verbal_memory.png">
+  <p>Verbal memory test page - middle: word to memorize, bottom: score + attempts left + SEEN button + NEW button</p>
+</div>
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/statistics1.png">
+  <p>Statistics pahe - top: graph of the distribution of scores obtained by all the users in the Reaction time test, bottom: best score + mean score</p>
+</div>
+
 
