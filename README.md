@@ -78,6 +78,16 @@ The application runs using resources from the Microsoft .NET Framework (version 
   <p>Your friends page - top left: friend list, top right: Check profile button + Delete friend button, bottom: Add friend button + field for typing their username</p>
 </div>
 
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/your_profile.png">
+  <p>Your profile page - top: personal details, bottom: Delete account button + Send statistics to email button</p>
+</div>
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/email.png">
+  <p>Email example, the attachments are graphs which track the user's score evolution in all three tests</p>
+</div>
+
 
 
 
