@@ -10,7 +10,7 @@ The application was built using the Microsoft Visual Studio 2017 development env
 The application runs using resources from the Microsoft .NET Framework (version 2.0) which comes preinstalled with all Windows version starting with Windows 7. Test Q also requires a stable internet connection.
 
 ## Key features
-* Test Q has an intuitive GUI which enables any user to navigate readily between all the different sections of the app. This is accomplished by using a minimalist and friendly design which takes advantage of a simple color palette, suggestive images, nonambiguous instructions and a reduced number of buttons programmed to execute simple functions.
+* Test Q has an intuitive GUI which enables any user to navigate readily between all the different sections of the app. This is accomplished by using a minimalist and friendly design which takes advantage of a simple color palette, nonambiguous instructions and a reduced number of buttons programmed to execute simple functions.
 
 * Users can create a personal account which is used to track their future progress.
 
