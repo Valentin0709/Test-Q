@@ -44,7 +44,7 @@ The application runs using resources from the Microsoft .NET Framework (version 
 
 <div align="center">
   <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/select_a_test.png">
-  <p>Select a test page, left: Menu, top: Reaction time test, bottom: Number memory test, right: next page button</p>
+  <p>Select a test page - left: Menu, top: Reaction time test, bottom: Number memory test, right: next page button</p>
 </div>
 
 <div align="center">
