@@ -19,7 +19,7 @@ The application runs using resources from the Microsoft .NET Framework (version 
 
   * **Number memory test** – the user needs to memorize a random number which is displayed on the screen for 30 seconds and then is asked to type the number in a textbox. With each level the length of the numbers increases by one digit and the final score is equal to the number of correct answers. The test ends when the user gives a wrong answer.
 
-  * **Verbal memory test** – at each level, the user is shown a word randomly extracted from a preexisting list and is asked to decide if the word has previously appeared in the game. The final score is equal to the number of correct response and the test ends after 3 wrong answers.
+  * **Verbal memory test** – at each level, the user is shown a word randomly extracted from a preexisting list and is asked to decide if the word has previously appeared in the game. The final score is equal to the number of correct responses and the test ends after 3 wrong answers.
 
 * In the *Statistics page* clients can see, for each of the 3 tests, data collected about the scores of other players. These statistics include graphs of the distributions of scores obtained by all the members of the platform, the maximum/mean scores, and rankings of the top 100 users.
 
