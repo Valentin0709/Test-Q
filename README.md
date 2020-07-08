@@ -1,4 +1,4 @@
-# Test-Q
+# Test Q
 
 ## Overview
 Test Q is a desktop application that comprises several microgames which asses the user’s cognitive abilities (reaction time, number memory and verbal memory). It can be accessed by downloading and lunching the Test Q.exe executable. 
