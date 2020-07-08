@@ -68,4 +68,16 @@ The application runs using resources from the Microsoft .NET Framework (version 
   <p>Statistics page - top: graph of the distribution of scores obtained by all the users in the Reaction time test, bottom: best score + mean score</p>
 </div>
 
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/statistics2.png">
+  <p>Statistics page - ranking of top 100 scores in the Reaction time test</p>
+</div>
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/your_friends.png">
+  <p>Your friends page - top left: friend list, top right: Check profile button + Delete friend button, bottom: Add friend button + field for typing their username</p>
+</div>
+
+
+
 
