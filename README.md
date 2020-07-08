@@ -34,12 +34,22 @@ The application runs using resources from the Microsoft .NET Framework (version 
 
 <div align="center">
   <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/login.PNG">
-  <p>Authentication Page (username and password required), bottom: Create Account button</p>
+  <p>*Authentication* page (username and password required), bottom: *Create Account* button</p>
 </div>
 
 <div align="center">
   <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/register.png">
-  <p>Create Account Page - the name, surname, birthday, email adress, username and password fields need to be filled in order to complete the registration</p>
+  <p>*Create Account* page - the name, surname, birthday, email adress, username and password fields need to be filled in order to complete the registration</p>
+</div>
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/select_a_test.png">
+  <p>*Select a test* page, left: Menu, top: *Reaction time test*, bottom: *Number memory test*, right: next page button</p>
+</div>
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/reaction_time.png">
+  <p>*Reaction time test* page</p>
 </div>
 
 
