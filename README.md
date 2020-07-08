@@ -1,7 +1,7 @@
 # Test Q
 
 ## Overview
-Test Q is a desktop application that comprises several microgames which asses the user’s cognitive abilities (reaction time, number memory and verbal memory). It can be accessed by downloading and lunching the Test Q.exe executable. 
+Test Q is a desktop application that comprises several microgames which asses the user’s cognitive abilities (reaction time, number memory and verbal memory). It can be accessed by downloading and lunching the **Test Q.exe** executable. 
 
 ## Tools and technologies
 The application was built using the Microsoft Visual Studio 2017 development environment using the C# and MySQL programming languages. The app utilizes an online hosted database created with the free plan offered by GearHost and the management of all the tables was accomplished using the SQL Server Management Studio. 
