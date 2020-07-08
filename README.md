@@ -65,7 +65,7 @@ The application runs using resources from the Microsoft .NET Framework (version 
 
 <div align="center">
   <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/statistics1.png">
-  <p>Statistics pahe - top: graph of the distribution of scores obtained by all the users in the Reaction time test, bottom: best score + mean score</p>
+  <p>Statistics page - top: graph of the distribution of scores obtained by all the users in the Reaction time test, bottom: best score + mean score</p>
 </div>
 
 
