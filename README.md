@@ -33,6 +33,6 @@ The application runs using resources from the Microsoft .NET Framework (version 
 ## Screenshots
 
 <p align="center">
-  <img width="460" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/login.PNG">
+  <img width="600" src="https://github.com/Valentin0709/Test-Q/blob/master/Images/login.PNG">
 </p>
 
